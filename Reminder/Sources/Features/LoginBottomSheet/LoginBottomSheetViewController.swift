@@ -1,19 +1,16 @@
 //
-//  ViewController.swift
+//  LoginBottomSheetViewController.swift
 //  Reminder
 //
 //  Created by Luiz Felipe Moraes Lima on 14/09/25.
 //
 
+import Foundation
 import UIKit
 
-class ViewController: UIViewController {
-
+class LoginBottomSheetViewController: UIViewController {
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
-
-
 }
-
